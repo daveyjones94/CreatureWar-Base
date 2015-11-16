@@ -12,7 +12,7 @@ public class Demon extends Creature
      */
     public Demon()
     {
-        super();
+        super(10, 20);
     }
 
     public int damage()

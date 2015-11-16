@@ -12,7 +12,7 @@ public class Elf extends Creature
      */
     public Elf()
     {
-        super();
+        super(13, 20);
     }
     
     public int damage()
